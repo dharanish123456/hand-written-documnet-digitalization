@@ -1,0 +1,14 @@
+streamlit
+requests
+PyMuPDF
+streamlit-quill
+pdfkit
+python-docx
+Pillow
+python-dotenv
+google-generativeai
+base64
+pyaudio
+wave
+json
+re
